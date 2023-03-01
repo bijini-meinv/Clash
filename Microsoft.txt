@@ -1,7 +1,7 @@
 payload:
  - '+.aka.ms'
- - '+.onedrive.live.com'
- - '+.streaming.mediaservices.windows.net'
+ - '+.live.com'
+ - '+.windows.net'
  - '+.aadrm.com'
  - '+.microsoft.com'
  - '+.acompli.com'
@@ -76,4 +76,3 @@ payload:
  - '+.wunderlist.com'
  - '+.yammer.com'
  - '+.yammerusercontent.com'
-

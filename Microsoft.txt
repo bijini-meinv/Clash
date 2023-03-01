@@ -1,5 +1,4 @@
 payload:
-# > Microsoft
   - '+.aka.ms'
   - '+.onedrive.live.com'
   - '+.streaming.mediaservices.windows.net'

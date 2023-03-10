@@ -1,5 +1,4 @@
 payload:
-  - '+.000000000000000000000000000000000000000000000000000000000000001.com'
   - '+.00006801.com'
   - '+.00006805.com'
   - '+.00006807.com'
@@ -7602,8 +7601,6 @@ payload:
   - '+.fb.4irc.com'
   - '+.fb.co'
   - '+.fb.com'
-  - '+.fbcdn.com'
-  - '+.fbcdn.net'
   - '+.fbdownloader.com'
   - '+.fbdutaff.com'
   - '+.fbgreensburg.org'
